@@ -1,0 +1,115 @@
+Time: 2020-05-04 20:57:23.479732, Message: sd
+Time: 2020-05-04 22:00:13.538135, Message: a
+Time: 2020-05-04 22:00:38.544711, Message: af
+Time: 2020-05-04 22:00:53.542591, Message: sd
+Time: 2020-05-06 23:33:47.606318, Message: fiete
+Time: 2020-05-06 23:33:52.602276, Message: fiet
+Time: 2020-05-06 23:33:57.611583, Message: fiete
+Time: 2020-05-06 23:34:02.603651, Message: fiete
+Time: 2020-05-06 23:34:07.604670, Message: Lmaoooo
+Time: 2020-05-06 23:34:12.609187, Message: Yea okay stfu guys let me sleep
+Time: 2020-05-06 23:34:17.613201, Message: UFck
+Time: 2020-05-06 23:34:22.602919, Message: fiete
+Time: 2020-05-06 23:34:27.610618, Message: Fiete
+Time: 2020-05-06 23:34:32.603418, Message: FIETE
+Time: 2020-05-06 23:34:47.606116, Message: ok fiete
+Time: 2020-05-06 23:34:52.611290, Message: get an error here
+Time: 2020-05-06 23:35:11.224080, Message: ok fiete
+Time: 2020-05-06 23:36:14.836369, Message: fiete
+Time: 2020-05-06 23:36:19.836998, Message: ok fiete
+Time: 2020-05-06 23:36:24.846818, Message: thats so much easier
+Time: 2020-05-06 23:36:34.860874, Message: if "fiete" in message.content.lower():
+        await message.delete()
+Time: 2020-05-06 23:40:33.681282, Message: SHIU t
+Time: 2020-05-06 23:40:48.688985, Message: hve fun typing boios
+Time: 2020-05-06 23:43:46.310168, Message: fg
+Time: 2020-05-06 23:43:56.314587, Message: yoinks
+Time: 2020-05-06 23:51:07.318747, Message: 56
+Time: 2020-05-06 23:51:12.332844, Message: asd
+Time: 2020-05-06 23:53:03.875194, Message: dm me if you have an issue
+Time: 2020-05-06 23:54:59.105943, Message: ight
+Time: 2020-05-06 23:55:04.111809, Message: i fixed it
+Time: 2020-05-06 23:55:09.110329, Message: <@!397419746917875722>
+Time: 2020-05-06 23:55:24.109302, Message: @
+Time: 2020-05-07 00:02:44.137204, Message: im trying ouit 1080x1080 oof
+Time: 2020-05-07 00:02:54.140118, Message: wtf would that  even look like
+Time: 2020-05-07 00:04:24.139864, Message: idk
+Time: 2020-05-07 00:04:34.137691, Message: v stretched
+Time: 2020-05-07 00:09:59.171022, Message: looks hella weird
+Time: 2020-05-07 00:10:04.169906, Message: mind the recoil
+Time: 2020-05-07 00:10:09.168643, Message: ew
+Time: 2020-05-07 00:10:14.176145, Message: get rid of that
+Time: 2020-05-07 00:10:19.165450, Message: 16:9
+Time: 2020-05-07 00:10:29.176825, Message: if someone was on the other end of that
+Time: 2020-05-07 00:10:34.177422, Message: eac would be up my ass
+Time: 2020-05-07 00:10:44.186793, Message: tf
+Time: 2020-05-07 00:10:50.007339, Message: ran out of mouse room at the end
+Time: 2020-05-07 00:11:00.019298, Message: native  holo pullin beams
+Time: 2020-05-07 00:11:10.006381, Message: ak holo :/
+Time: 2020-05-07 00:11:15.014174, Message: yes
+Time: 2020-05-07 00:11:20.020851, Message: like the most chad setup in the game
+Time: 2020-05-07 00:11:50.014855, Message: tommy holo most chad
+Time: 2020-05-07 00:12:00.014175, Message: bruh
+Time: 2020-05-07 00:12:10.010917, Message: m92 silenced
+Time: 2020-05-07 00:12:25.008820, Message: reduces the aim cone like mad
+Time: 2020-05-07 00:12:40.014602, Message: ak simple handmade ez claps
+Time: 2020-05-07 00:13:00.017211, Message: banned
+Time: 2020-05-07 00:13:35.021207, Message: wdyyym
+Time: 2020-05-07 00:13:50.009854, Message: yyoyinks
+Time: 2020-05-07 00:14:40.018944, Message: seen someone playing 1980x1440
+Time: 2020-05-07 00:14:45.009343, Message: gonna try it
+Time: 2020-05-07 00:15:00.014987, Message: do you have 1440p monitor?
+Time: 2020-05-07 00:15:05.017410, Message: is thisnot stretched
+Time: 2020-05-07 00:15:15.011516, Message: bruh
+Time: 2020-05-07 00:15:20.007071, Message: it is
+Time: 2020-05-07 00:15:25.010373, Message: just doesnt work
+Time: 2020-05-07 00:15:39.999490, Message: thought it was gonna be high quality stretch or something
+Time: 2020-05-07 00:16:24.997793, Message: cracked
+Time: 2020-05-07 00:16:39.998369, Message: insane 20m custom silencer sprays
+Time: 2020-05-07 00:16:45.002639, Message: damn right
+Time: 2020-05-07 00:16:50.002277, Message: the recoil so hard
+Time: 2020-05-07 00:17:15.018066, Message: laser holo and supressor probably removedaim coneoff that by like 7000% lmao
+Time: 2020-05-07 00:18:55.016159, Message: i tried 100m with it
+Time: 2020-05-07 00:19:05.015594, Message: and had to aim another person higher
+Time: 2020-05-07 00:19:45.019747, Message: yeah supressor drop off crazy
+Time: 2020-05-07 00:20:00.020547, Message: bruuuhhh ak holo so weird
+Time: 2020-05-07 00:20:10.020212, Message: i tried 100m spray and only hit like 4
+Time: 2020-05-07 00:20:40.014722, Message: Holo god tier
+Time: 2020-05-07 00:21:45.014675, Message: ne
+Time: 2020-05-07 15:19:44.254767, Message: fiet message
+Time: 2020-05-07 15:20:24.285726, Message: Benny im gonna kick your bot
+Time: 2020-05-07 15:20:39.285343, Message: why
+Time: 2020-05-07 15:21:09.282045, Message: Stop being disrespectful
+Time: 2020-05-07 15:21:14.277777, Message: Young man
+Time: 2020-05-07 15:23:24.319410, Message: fuck
+Time: 2020-05-07 15:23:51.764921, Message: <@!506662964342816798>
+Time: 2020-05-07 15:24:01.764697, Message: message
+Time: 2020-05-07 15:26:26.776725, Message: Pass
+Time: 2020-05-07 15:26:36.780820, Message: Bitchass
+Time: 2020-05-07 15:27:12.363864, Message: what about now
+Time: 2020-05-07 15:33:17.435269, Message: Pass
+Time: 2020-05-07 15:33:27.443021, Message: Man ben fix yo shit
+Time: 2020-05-07 15:37:37.427161, Message: ree
+Time: 2020-05-07 15:37:42.418896, Message: bryuh
+Time: 2020-05-07 15:38:13.584144, Message: lmao
+Time: 2020-05-07 15:49:28.503105, Message: a
+Time: 2020-05-07 15:49:33.498626, Message: it works again
+Time: 2020-05-07 15:49:38.507200, Message: now
+Time: 2020-05-07 15:49:43.517475, Message: stfu pls
+Time: 2020-05-07 16:12:03.764212, Message: im making a musci playing bot now
+Time: 2020-05-07 16:25:32.713705, Message: /join
+Time: 2020-05-07 16:26:07.712657, Message: /join
+Time: 2020-05-07 16:26:32.714183, Message: /j
+Time: 2020-05-07 16:27:53.121796, Message: /join
+Time: 2020-05-07 16:30:25.509040, Message: /join
+Time: 2020-05-07 16:32:35.521988, Message: join
+Time: 2020-05-07 16:32:40.538092, Message: /join
+Time: 2020-05-07 16:32:45.549829, Message: Yeah it’s pretty easy
+Time: 2020-05-07 16:32:55.551083, Message: And he joins
+Time: 2020-05-07 16:33:05.553565, Message: thats not the chad way
+Time: 2020-05-07 16:34:06.992966, Message: /join
+Time: 2020-05-07 16:34:16.991655, Message: /join
+Time: 2020-05-07 16:34:40.011284, Message: fuck
+Time: 2020-05-07 16:34:45.010417, Message: wrong bot
+Time: 2020-05-07 16:35:05.043603, Message: &join
+Time: 2020-05-07 16:35:10.041268, Message: pls

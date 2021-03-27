@@ -1,0 +1,3 @@
+BlukezElo=50
+MaxiElo=0
+CraigElo=0
