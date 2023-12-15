@@ -100,43 +100,7 @@ async def play(ctx, url: str):
     print("Playing\n")
 
 
-@bot.command()
-async def purge(ctx, amount):
-    await ctx.channel.purge(limit=int(amount))
-    await ctx.channel.send(f"Purged: {amount} message(s)")
-
-
 BLUID = 397419746917875722
-
-@bot.command(pass_context = True, aliases=["gam", "g"])
-async def gamble(ctx, quan):
-
-    z=[]
-    f = open("EloCount.txt")
-    contents = f.read()
-    lists = contents.splitlines()
-    for i in lists:
-        print(i)
-        for j in i:
-            if j.isdigit():
-                z.append(j)     
-
-    if ctx.message.author.id == BLUID:
-
-        if BluElo >= quan:
-
-            x = random.randint(1, 2)
-
-            if x == 1: 
-                await ctx.channel.send(f"Blukez went all in and ")
-
-    file.close()
-
-        
-
-
-
-
 
 
 bot.run('NzA1NTE2NjcwNzQ3Mjc5NDQw.Xqs1_A.sH1UNEpucjZu9vPBTeXu7KxXNAc')
