@@ -37,4 +37,4 @@ async def play(ctx):
     play_music()
 
 
-bot.run('Nzk3NTkxOTY3MjUxOTU1NzIy.GPILmp.97RVYNGrjaa8cNWjACwNAfsALJS0DUHaS4vUR8')
+bot.run('')

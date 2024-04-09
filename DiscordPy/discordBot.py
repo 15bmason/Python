@@ -100,4 +100,4 @@ async def play(ctx, url: str):
     print("Playing\n")
 
 
-bot.run('NzA1NTE2NjcwNzQ3Mjc5NDQw.Xqs1_A.sH1UNEpucjZu9vPBTeXu7KxXNAc')
+bot.run('')
