@@ -7,10 +7,6 @@ from discord.utils import get
 import youtube_dl
 import random
 
-
-bluID = 397419746917875722
-
-
 BOT_PREFIX = '/'
 
 bot = commands.Bot(command_prefix=BOT_PREFIX)
